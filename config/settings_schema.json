@@ -1,15 +1,15 @@
 [
   {
-    "name": "Welcome",
+    "name": "Hello",
     "settings": [
       {
         "type": "paragraph",
-        "content": "Nothing to see here"
+        "content": "This theme doesn't do a damn thing."
       }
     ]
   },
   {
-    "name": "Example setting",
+    "name": "Nothing!",
     "settings": [
       {
         "type": "header",

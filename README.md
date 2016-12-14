@@ -1,4 +1,4 @@
 Shopify Nothing
 ---------------------------------------------
 
-### Nothing but folder structure and required files.
+#### Shopify folder structure with the bare minimum required files.

@@ -1,9 +1,5 @@
-# Ignore .DS_store file
+# Ignore Annoying System Stuff
 .DS_Store
-
-# Ignore cache
-/.sass-cache
-/.cache
 
 # Ignore Config Files ( optional )
 config.yml
