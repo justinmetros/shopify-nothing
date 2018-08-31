@@ -1,10 +1,10 @@
 [
   {
-    "name": "Hello",
+    "name": "Welcome!",
     "settings": [
       {
         "type": "paragraph",
-        "content": "This theme doesn't do a damn thing."
+        "content": "We are starting clean! Woo!"
       }
     ]
   }
